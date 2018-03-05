@@ -3,34 +3,39 @@
     "employee": [
       {
         "id": "1",
-        "firstName": "Tom",
-        "lastName": "Cruise"
+        "firstName": "Roger",
+        "lastName": "Federer"
       },
       {
         "id": "2",
-        "firstName": "Maria",
-        "lastName": "Sharapova"
+        "firstName": "Sachin",
+        "lastName": "Tendulkar"
       },
       {
         "id": "3",
-        "firstName": "James",
-        "lastName": "Bond"
+        "firstName": "Will",
+        "lastName": "Smith"
       }
     ]
   },
   "posts": [
       { 
-      "id": 1, 
-      "title": "json-server", 
-      "author": "typicode" 
+      "id": 4, 
+      "title": "text1", 
+      "author": "saif" 
+      },
+      { 
+      "id": 5, 
+      "title": "text2", 
+      "author": "saif1" 
       }
     ],
   "comments": [
       { 
-      "id": 1,
+      "id": 7,
        "body": "some comment",
-        "postId": 1 
+        "postId": 10 
         }
     ],
-    "profile": { "name": "typicode" }
+    "profile": { "SAIF": "jkl" }
 }
